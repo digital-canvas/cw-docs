@@ -38,33 +38,21 @@ Compatible devices:
 
 ## Recommended Computers & Tablets
 
-We highly recommend using an Android device or Windows 10 tablet/computer.  Windows provides the greatest flexibility and allows for wireless order printing whilst being able to use the order and table booking dashboard.
+We highly recommend using an Android device or Windows 10 tablet/computer. 
 
-### Worldwide
-
-Windows 10 tablets are abundant and cheap these days. You can't go wrong choosing from one of the major brands. Some notable brands include:
-
-* Lenevo
-* ASUS
-* HP
-* Microsoft - Surface Pro Tablet
-* Chuwi - Decent Chinese brand, starting from around $200
 
 ## Recommended Printers
 
 You can use any printer with Windows or Linux drivers or any printer that works with ESCPOS using Android, so you are not restricted to just the printers we recommend.
 
-### Branded Printers
+We will setup the devices and printers for you. Here's the tablet and printer setups. 
 
-Organized from lowest to highest price.
+https://www.dinerwebsites.com/order
 
-* [PushPrinter PX-90](https://www.pushprinter.com/#printers) - Available with Ethernet or Bluetooth \(Recommended\)
-* Epson TM-T20 - Available with USB or Ethernet
-* Epson TM-M30 - Bluetooth
-* Epson TM-T82-II-i - USB and Ethernet, supporting many connected devices
-* Star Micronics TSP143 - Available as Bluetooth or USB or WIFI
+
 
 ## Ideal Setup
 
-![Ideal setup](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1bzr2nv.png)
+Android Tablet & Thermal Printer
+
 
