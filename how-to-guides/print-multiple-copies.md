@@ -22,7 +22,7 @@ To print multiple copies requires changes to the tablet.
 
 4. Change the number of copies to printer and click Edit Printer. Do not make any other changes.
 
-![Edit Printer](../.gitbook/assets/printer-editor.png)
+![](../.gitbook/assets/printer-editor%20%281%29.png)
 
 5. To exit out of the printer setup and return, click the circle \(O\) button at the bottom of the screen. 
 
