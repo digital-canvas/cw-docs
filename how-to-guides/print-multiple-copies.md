@@ -1,36 +1,28 @@
 ---
-description: >-
-  Learn how to print multiple reciept copies with our printer software
+description: Learn how to print multiple reciept copies with our printer software
 ---
 
+# Print Multiple Copies for Android
 
-# Changes on Tablet
-
-To print multiple copies requires changes to the tablet. 
+To print multiple copies requires changes to the tablet.
 
 \|\| Make sure to be careful making these changes. Incorrect settings could disconnect the printer from the tablet.
 
-    1. Open the App Draw on the tablet. 
+1. Open the App Draw on the tablet. 
 
-![Open App Draw](../assets/printing-copies/app-draw.png)
+![Open App Draw](../.gitbook/assets/app-draw.png)
 
+2. Select the PushPrinter App icon
 
-    2. Select the PushPrinter App icon
+![](../.gitbook/assets/app-draw-open.jpg)
 
+3. Edit the Printer. BE CAREFUL NOT TO DELETE
 
-![Open Push Printer](../assets/printing-copies/app-draw-open.jpg)
+![Edit Printer](../.gitbook/assets/select-printer.png)
 
-    3. Edit the Printer. BE CAREFUL NOT TO DELETE
+4. Change the number of copies to printer and click Edit Printer. Do not make any other changes.
 
+![Edit Printer](../.gitbook/assets/printer-editor.png)
 
-![Edit Printer](../assets/printing-copies/select-printer.png)
-
-
-    4. Change the number of copies to printer and click Edit Printer. Do not make any other changes.
-
-
-![Edit Printer](../assets/printing-copies/printer-editor.png)
-
-
-    5. To exit out of the printer setup and return, click the circle (O) button at the bottom of the screen. 
+5. To exit out of the printer setup and return, click the circle \(O\) button at the bottom of the screen. 
 

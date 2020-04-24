@@ -16,7 +16,7 @@ Fill out the form and create the app
 
 On the app dashboard the left menu, select "Settings &gt; Basic". Enter your website domain into the "App Domains" field
 
-![](../assets/facebook/image_iokp6p.png)
+![](../.gitbook/assets/image_iokp6p.png)
 
 Scroll down and press the "Add Platform" button and select "Website
 
@@ -24,13 +24,13 @@ Scroll down and press the "Add Platform" button and select "Website
 
 Enter your ordering site URL into the "Site URL" box and then press "Save Changes" on the bottom right.
 
-![](../assets/facebook/image_pa5uog.png)
+![](../.gitbook/assets/image_pa5uog.png)
 
 On the left navigation menu, press "Products" and press the "Set Up" button for Facebook Login.
 
 On the next screen, select "Web", you should see your "Site URL" already filled out, press "Save"
 
-![](../assets/facebook/image_gdcuti.png)
+![](../.gitbook/assets/image_gdcuti.png)
 
 On the left menu, under "Products &gt; Facebook Login", select "Settings"
 
@@ -38,7 +38,7 @@ Enable "Embedded Browser OAuth Login"
 
 Enter your store domain into the "Valid OAuth Redirect URIs" field and press "Save Changes"
 
-![](../assets/facebook/image_hbyf21.png)
+![](../.gitbook/assets/image_hbyf21.png)
 
 Finally, copy your Facebook App ID as shown on the top of the app dashboard
 
@@ -46,7 +46,7 @@ Finally, copy your Facebook App ID as shown on the top of the app dashboard
 
 With the App ID copied, visit your restaurant dashboard and to "Settings &gt; System &gt; Customer Accounts &gt; Facebook". Paste your App ID and press save
 
-![](../assets/facebook/image_u1lgnf.png)
+![](../.gitbook/assets/image_u1lgnf.png)
 
 Visit your online store and confirm that the Facebook login option is available under the "Login / Signup" popup
 

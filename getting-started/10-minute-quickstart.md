@@ -8,11 +8,10 @@ description: >-
 
 ## Quick-start Steps
 
-1. Visit https://www.dinerwebsites.com and sign up for an account
+1. Visit [https://www.dinerwebsites.com](https://www.dinerwebsites.com) and sign up for an account
 2. You will be contacted to setup the account
 3. Once you have access to the account, follow the Get Started guide to get the account up and running.
 4. We'll work with you to get everything up and running quickcly.
-
 
 ## What's Next
 

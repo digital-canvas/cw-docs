@@ -38,21 +38,17 @@ Compatible devices:
 
 ## Recommended Computers & Tablets
 
-We highly recommend using an Android device or Windows 10 tablet/computer. 
-
+We highly recommend using an Android device or Windows 10 tablet/computer.
 
 ## Recommended Printers
 
 You can use any printer with Windows or Linux drivers or any printer that works with ESCPOS using Android, so you are not restricted to just the printers we recommend.
 
-We will setup the devices and printers for you. Here's the tablet and printer setups. 
+We will setup the devices and printers for you. Here's the tablet and printer setups.
 
-https://www.dinerwebsites.com/order
-
-
+[https://www.dinerwebsites.com/order](https://www.dinerwebsites.com/order)
 
 ## Ideal Setup
 
 Android Tablet & Thermal Printer
-
 

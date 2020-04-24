@@ -56,5 +56,3 @@ Your meta description should just expand on that more but make sure to hit on yo
 
 Once you have a custom domain, visit [https://search.google.com/search-console](https://search.google.com/search-console). Register an account there, add your website, then use the "URL Inspection Tool" to check your website. There you can submit it to Google for indexing.
 
-
-
