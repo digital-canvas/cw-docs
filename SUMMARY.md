@@ -12,6 +12,7 @@
 * [How To Guides](how-to-guides/README.md)
   * [Setup Printing For Windows](how-to-guides/setup-printing-for-windows.md)
   * [Setup Printing For Android](how-to-guides/setup-printing-for-android.md)
+  * [Print Multiple Copies for Android](how-to-guides/print-multiple-copies.md)
   * [Setup Stripe Payments](how-to-guides/setup-stripe-payments.md)
   * [Setup PayPal Payments](how-to-guides/setup-paypal-payments.md)
   * [Setup Facebook Login](how-to-guides/setup-facebook-login.md)
