@@ -1,7 +1,7 @@
 ---
 description: >-
   A quick overview video of how to add custom checkout fields per service in
-  CloudWaitress.
+  Diner Websites Ordering.
 ---
 
 # Setup Custom Checkout Fields
@@ -14,4 +14,3 @@ description: >-
 * Press 'Add new field'
 * Customise the field as required.
 * Press save and review the field.
-

@@ -28,7 +28,7 @@ description: How to guide to print with a network printer
 
 7. Open the PushPrinter for Windows program application
 
-8. Go to the 'settings' cog and select the default or CloudWaitress provider profile from the dropdown list.
+8. Go to the 'settings' cog and select the default or "CloudWaitress" provider profile from the dropdown list.
 
 ![](../.gitbook/assets/untitled-4%20%282%29.png)
 
@@ -47,11 +47,11 @@ description: How to guide to print with a network printer
 12. Add settings including API key from the printer just created.
 
 {% hint style="info" %}
-**For a network printer:** 
+**For a network printer:**
 
-* Name the printer. 
-* Add API printer \(found in the store printer settings\), 
-* Set number of copies 
+* Name the printer.
+* Add API printer \(found in the store printer settings\),
+* Set number of copies
 * Add printer IP address and set port to 9100\).
 {% endhint %}
 
@@ -60,9 +60,9 @@ description: How to guide to print with a network printer
 {% hint style="danger" %}
 **NOTE:**
 
-**Printer name** - This is the name that the printer will show inside of CloudWaitress.
+**Printer name** - This is the name that the printer will show inside of Diner Websites Ordering.
 
-**API Key** - This needs to be copied from the printer settings inside of CloudWaitress.
+**API Key** - This needs to be copied from the printer settings inside of Diner Websites Ordering.
 
 **Number of copies** - This will determine how many copies of the are printed.
 
@@ -78,4 +78,3 @@ description: How to guide to print with a network printer
 15. Go to your store and place a test order.
 
 \*\*\*\*
-

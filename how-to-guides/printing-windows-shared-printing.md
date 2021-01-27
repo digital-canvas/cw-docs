@@ -4,7 +4,7 @@ description: how to guide to connect a USB printer
 
 # Printing - Windows Shared Printing
 
-#### 1. Please go to Windows control Panel 
+#### 1. Please go to Windows control Panel
 
 ![](../.gitbook/assets/untitled%20%283%29.png)
 
@@ -44,9 +44,9 @@ description: how to guide to connect a USB printer
 
 **NOTE:**
 
-**Printer name** - This is the name that the printer will show inside of CloudWaitress.
+**Printer name** - This is the name that the printer will show inside of Diner Websites Ordering Admin.
 
-**API Key** - This needs to be copied from the printer settings inside of CloudWaitress.
+**API Key** - This needs to be copied from the printer settings inside of Diner Websites Ordering Admin.
 
 **Number of copies** - This will determine how many copies of the are printed.
 
@@ -55,4 +55,3 @@ description: how to guide to connect a USB printer
 **Windows Share Printer Name** - This must match EXACTLY the shared printer name that was added before. You should avoid spaces and special characters.
 
 #### 8. Then press 'Send Test Print' and then press 'Create Printer'.
-
