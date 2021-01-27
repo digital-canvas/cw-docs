@@ -51,4 +51,3 @@ We will setup the devices and printers for you. Here's the tablet and printer se
 ## Ideal Setup
 
 Android Tablet & Thermal Printer
-
