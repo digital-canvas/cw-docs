@@ -21,7 +21,6 @@
   * [Setup Custom Checkout Fields](how-to-guides/setup-custom-checkout-fields.md)
   * [Setup Facebook Login](how-to-guides/setup-facebook-login.md)
   * [How to add Driver Tracking](how-to-guides/shipday-integration.md)
-  * [Purchase A Domain Name](how-to-guides/purchase-a-domain-name.md)
   * [Setup A Custom Domain](how-to-guides/setup-a-custom-domain.md)
   * [Link Directly to menu](how-to-guides/link-directly-to-menu.md)
   * [Setup an iOS & Android App](how-to-guides/setup-an-ios-and-android-app.md)

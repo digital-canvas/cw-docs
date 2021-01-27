@@ -20,7 +20,6 @@ description: >-
 
 ## Set-up Shipday Integration
 
-{% embed url="https://youtu.be/ZRzKbq3M-co" %}
 
 1. Open your Diner Websites Ordering account - [admin.dinerwebsitesordering.com](https://admin.dinerwebsitesordering.com/).
 2. Select 'Manage' for the Restaurant you would like to integrate.
@@ -34,7 +33,5 @@ Please make sure that you have Wait Times & Auto Statuses configured.  Otherwise
 
 **Find at**: 'Settings &gt; Services &gt; Deliveries &gt; Wait Times & Auto Statuses'.
 {% endhint %}
-
-![See drivers and deliveries in the Shipday &apos;Map&apos; section.](../.gitbook/assets/screen-shot-2020-08-29-at-8.20.24-pm.png)
 
 ##
