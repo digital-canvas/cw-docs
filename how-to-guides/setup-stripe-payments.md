@@ -17,7 +17,7 @@ When Stripe is enabled, customers can choose from the online payment option when
 ## Connecting Your Stripe Account
 
 1. Create an account on the Stripe website if you do not already have one
-2. Ensure you are viewing your live account and not your test account 
+2. Ensure you are viewing your live account and not your test account
 3. Login to your account dashboard. On the left navigation, go to "Developers &gt; API Keys"
 4. Next, open up your restaurant dashboard and navigate to "Settings &gt; Payments &gt; Stripe"
 5. Enable Stripe payments using the "Enable" switch
@@ -25,6 +25,23 @@ When Stripe is enabled, customers can choose from the online payment option when
 7. Set your payment currency in the restaurant dashboard and save the settings
 
 ![Stripe API keys](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_4cpfy8.png)
+
+
+## Stripe Developer Access
+
+In order to assist Diner Website development team will need limited access to your stripe account.
+
+We need this access to configure Stripe integration, help with stripe support, or configure the stripe accont correctly.
+
+To provide our development and support team with access:
+
+
+1. Login to Stripe
+2. On Left menu click on Settings at the bottom of the menu
+3. Scroll to the bottom of the setting page and under “Busines Settings” click on the link “Team” under the heading Team and security
+4. On the Team page click on the button in the top right [+ New member]
+5. Enter the email address developer@dinerwebsites.com and select the “Developer” level of access, then click invite.
+
 
 ## Testing Payments
 
@@ -51,4 +68,3 @@ Stripe enables you to accept different currencies online depending on the countr
 ## Issuing Refunds
 
 Stripe refunds can be processed from your order management dashboard or the Stripe dashboard. In the order management dashboard, the refund payment option is available in the order details popup. Simply press the action select bar and choose "Refund Stripe Payment".
-
