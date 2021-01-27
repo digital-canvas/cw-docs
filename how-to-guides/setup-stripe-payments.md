@@ -31,14 +31,14 @@ When Stripe is enabled, customers can choose from the online payment option when
 
 In order to assist Diner Website development team will need limited access to your stripe account.
 
-We need this access to configure Stripe integration, help with stripe support, or configure the stripe accont correctly.
+We need this access to configure Stripe integration, help with stripe support, or configure the stripe account correctly.
 
 To provide our development and support team with access:
 
 
-1. Login to Stripe
-2. On Left menu click on Settings at the bottom of the menu
-3. Scroll to the bottom of the setting page and under “Busines Settings” click on the link “Team” under the heading Team and security
+1. Log into Stripe
+2. On the Left menu click on Settings at the bottom of the menu
+3. Scroll to the bottom of the setting page and under “Business Settings” click on the link “Team” under the heading Team and security
 4. On the Team page click on the button in the top right [+ New member]
 5. Enter the email address developer@dinerwebsites.com and select the “Developer” level of access, then click invite.
 
@@ -53,7 +53,7 @@ Once this is done, you can use the credit card number "4242 4242 4242 4242" with
 
 ## Validating Your Stripe Account
 
-To withdraw online payments to your bank, you will need to ensure your Stripe account is fully valid. Pleae, ensure you have completed all their required validations.
+To withdraw online payments to your bank, you will need to ensure your Stripe account is fully valid. Please, ensure you have completed all their required validations.
 
 ## Stripe Fee's
 
